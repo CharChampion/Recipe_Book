@@ -1,0 +1,28 @@
+body{
+    background-color:rgb(111, 133, 246);
+    font-family: "Doto", sans-serif;
+    font-weight:bold
+}
+
+#a{
+    height:350px;
+}
+
+#b{
+    height:400px;
+}
+
+#c{
+    height:350px;
+}
+
+a:hover{
+    color:aquamarine
+}
+
+img{
+    border-style: double;
+    border-color:black;
+    border-width: 20px;
+    position: static;
+}

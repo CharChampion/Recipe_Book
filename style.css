@@ -26,3 +26,9 @@ img{
     border-width: 20px;
     position: static;
 }
+
+img{
+    display:inline-block;
+    margin-right: 10px;
+
+}
